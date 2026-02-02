@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Whizsoul Chotu-- A inner industry AI</title>
+    <link rel="stylesheet" href="/static/css/styles.css">
+    <link rel="icon" type="image/jpg" href="/static/images/favicon.jpg">
+</head>
+
+<body>
+    <div class=" chat-container">
+        <!-- Header -->
+        <div class="chat-header">
+            <div class="header-info">
+                <div class="bot-avatar">💻</div>
+                <div class="header-text">
+                    <h1>Whizsoul Chotu</h1>
+                    <span class="status">
+                        <span class="status-dot"></span>
+                        Online
+                    </span>
+                </div>
+            </div>
+            <button class="clear-btn" onclick="clearChat()" title="Clear chat">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M3 6h18M19 6v14a2 2 0 01-2 2H7a2 2 0 01-2-2V6m3 0V4a2 2 0 012-2h4a2 2 0 012 2v2" />
+                </svg>
+            </button>
+        </div>
+
+        <!-- Chat Messages -->
+        <div class="chat-messages" id="chatMessages">
+            <div class="welcome-message">
+                <div class="welcome-icon">
+                    <img src="/static/images/img.gif" alt="Whizsoul Chotu" hight="55" width="55">
+                </div>
+
+                <h2>Welcome to Whizsoul Chotu</h2>
+                <h3>Made by team Whizsoul</h3>
+                <p>Ask me anything about Machine Learning, Neural Networks, Deep Learning, and more!</p>
+                <div class="suggestion-chips">
+                    <button class="chip" onclick="askQuestion('What is machine learning?')">What is machine
+                        learning?</button>
+                    <button class="chip" onclick="askQuestion('Explain neural networks')">Explain neural
+                        networks</button>
+                    <button class="chip" onclick="askQuestion('What is overfitting?')">What is overfitting?</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Input Area -->
+        <div class="chat-input-container">
+            <div class="input-wrapper">
+                <textarea id="userInput" placeholder="Type your question here..." rows="1"
+                    onkeydown="handleKeyDown(event)" oninput="autoResize(this)"></textarea>
+                <button class="send-btn" id="sendBtn" onclick="sendMessage()">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M22 2L11 13M22 2l-7 20-4-9-9-4 20-7z" />
+                    </svg>
+                </button>
+            </div>
+            <p class="input-hint">Press Enter to send, Shift+Enter for new line</p>
+        </div>
+    </div>
+
+    <script src="/static/js/script.js"></script>
+</body>
+
+</html>

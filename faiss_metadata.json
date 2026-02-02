@@ -1,0 +1,279 @@
+{
+  "user_queries": [
+    {
+      "id": "user_query_8272e04f",
+      "content": "What is reinforcement learning?",
+      "timestamp": 1769587041.8473423
+    },
+    {
+      "id": "user_query_d1bf9329",
+      "content": "Hallo",
+      "timestamp": 1769587067.9866304
+    },
+    {
+      "id": "user_query_4ee7091c",
+      "content": "Hallo Ai",
+      "timestamp": 1769587081.0319314
+    },
+    {
+      "id": "user_query_f663638c",
+      "content": "How does CNN work?",
+      "timestamp": 1769587196.5656412
+    },
+    {
+      "id": "user_query_069872f9",
+      "content": "Tell me about random forests",
+      "timestamp": 1769587205.731168
+    },
+    {
+      "id": "user_query_8b1a9953",
+      "content": "Hello",
+      "timestamp": 1769587751.434692
+    },
+    {
+      "id": "user_query_dc274afb",
+      "content": "What is neural network?",
+      "timestamp": 1769587761.3401206
+    },
+    {
+      "id": "user_query_d9385462",
+      "content": "Hi there",
+      "timestamp": 1769587846.6666143
+    },
+    {
+      "id": "user_query_f1bafb62",
+      "content": "What is deep learning?",
+      "timestamp": 1769587854.8971832
+    },
+    {
+      "id": "user_query_d2c9c244",
+      "content": "/learn[topic]: Say Hi when someone says hallo",
+      "timestamp": 1769587906.5904448
+    },
+    {
+      "id": "user_query_e04d1bce",
+      "content": "machine learning",
+      "timestamp": 1769590350.618392
+    },
+    {
+      "id": "user_query_50d701f9",
+      "content": "overfitting",
+      "timestamp": 1769590363.061311
+    },
+    {
+      "id": "user_query_9e227aa7",
+      "content": "What is Hallo?",
+      "timestamp": 1769590618.1416917
+    },
+    {
+      "id": "user_query_56b27da3",
+      "content": "Where is Nandigram?",
+      "timestamp": 1769590681.862038
+    },
+    {
+      "id": "user_query_410fad79",
+      "content": "Nandigram",
+      "timestamp": 1769590728.7266002
+    },
+    {
+      "id": "user_query_0eb79c26",
+      "content": "neural",
+      "timestamp": 1769590822.0144024
+    },
+    {
+      "id": "user_query_e2b6dfb8",
+      "content": "gradient",
+      "timestamp": 1769590830.4507096
+    },
+    {
+      "id": "user_query_7e756a3e",
+      "content": "dropout",
+      "timestamp": 1769590837.4457314
+    },
+    {
+      "id": "user_query_39524aa4",
+      "content": "training data",
+      "timestamp": 1769590848.6336288
+    },
+    {
+      "id": "user_query_7cf2db5e",
+      "content": "pizza",
+      "timestamp": 1769590859.6909146
+    },
+    {
+      "id": "user_query_a8128b57",
+      "content": "where is nandigram",
+      "timestamp": 1769591157.3402972
+    },
+    {
+      "id": "user_query_ee91f4ca",
+      "content": "What is Pizza?",
+      "timestamp": 1769591581.5202081
+    },
+    {
+      "id": "user_query_de28049b",
+      "content": "You know Whizsoul consultency private limited",
+      "timestamp": 1769592829.3702798
+    },
+    {
+      "id": "user_query_600d86a9",
+      "content": "WhizSoul Consulting Private Limited is an active, private Indian non-government company based in Kolkata, specializing in AI and software development services. The company, founded on February 7, 2022, is classified under computer and related activities",
+      "timestamp": 1769592849.8298852
+    },
+    {
+      "id": "user_query_43a0085d",
+      "content": "WhizSoul Consulting Private Limited",
+      "timestamp": 1769592867.9557464
+    },
+    {
+      "id": "user_query_3a28ba40",
+      "content": "Pakisthan",
+      "timestamp": 1769594484.5089207
+    },
+    {
+      "id": "user_query_3adda8c1",
+      "content": "What is machine learning?",
+      "timestamp": 1769598193.8366785
+    },
+    {
+      "id": "user_query_4827f7bb",
+      "content": "bankura",
+      "timestamp": 1769598213.9989123
+    },
+    {
+      "id": "user_query_0944c769",
+      "content": "what is underfitting",
+      "timestamp": 1769598491.243556
+    },
+    {
+      "id": "user_query_92456f7c",
+      "content": "What is google?",
+      "timestamp": 1769598909.8117397
+    },
+    {
+      "id": "user_query_f3427731",
+      "content": "what is google",
+      "timestamp": 1769601461.8824062
+    },
+    {
+      "id": "user_query_c822c1b6",
+      "content": "google",
+      "timestamp": 1769601514.5804453
+    },
+    {
+      "id": "user_query_07cc694b",
+      "content": "time",
+      "timestamp": 1769604116.6185384
+    },
+    {
+      "id": "user_query_bda7879c",
+      "content": "what is the weather today",
+      "timestamp": 1769606304.9742663
+    },
+    {
+      "id": "user_query_7d31e0da",
+      "content": "India",
+      "timestamp": 1769794656.1037977
+    },
+    {
+      "id": "user_query_cbdb92a5",
+      "content": "Supervise learning",
+      "timestamp": 1769794892.2606041
+    },
+    {
+      "id": "user_query_8ec50877",
+      "content": "Nandigram railway station",
+      "timestamp": 1769794952.7424018
+    },
+    {
+      "id": "user_query_03d3e10f",
+      "content": "Deep learning",
+      "timestamp": 1769841127.2407258
+    },
+    {
+      "id": "user_query_4d619861",
+      "content": "Tokenization",
+      "timestamp": 1769841147.7947218
+    },
+    {
+      "id": "user_query_7e1037a6",
+      "content": "Nandigram bus stand",
+      "timestamp": 1770014863.5217695
+    },
+    {
+      "id": "user_query_7561181d",
+      "content": "Nandigram rail station",
+      "timestamp": 1770015107.5255404
+    },
+    {
+      "id": "user_query_0e36981f",
+      "content": "freight trains",
+      "timestamp": 1770015343.999973
+    },
+    {
+      "id": "user_query_2dd38bb3",
+      "content": "machine learning can automate tasks",
+      "timestamp": 1770015638.3284738
+    },
+    {
+      "id": "user_query_94769e15",
+      "content": "passenger trains",
+      "timestamp": 1770015661.521046
+    },
+    {
+      "id": "user_query_0a2ffc30",
+      "content": "Nandigram bus stanfd",
+      "timestamp": 1770016186.3910625
+    },
+    {
+      "id": "user_query_18154c98",
+      "content": "nandigram rail stand",
+      "timestamp": 1770016200.6170146
+    },
+    {
+      "id": "user_query_ed66688b",
+      "content": "Nandigram bus station",
+      "timestamp": 1770016492.2670236
+    },
+    {
+      "id": "user_query_e1f9610e",
+      "content": "rail stand",
+      "timestamp": 1770016524.3981533
+    },
+    {
+      "id": "user_query_e9511844",
+      "content": "Nandigram Water park",
+      "timestamp": 1770017161.0633626
+    },
+    {
+      "id": "user_query_910ce7f3",
+      "content": "Kolkata metro",
+      "timestamp": 1770017461.7668285
+    },
+    {
+      "id": "user_query_04c0debb",
+      "content": "railways",
+      "timestamp": 1770017555.7266612
+    },
+    {
+      "id": "user_query_5c1842c4",
+      "content": "Nandigram rail ways",
+      "timestamp": 1770017794.094861
+    },
+    {
+      "id": "user_query_445d337b",
+      "content": "Canada",
+      "timestamp": 1770020286.299589
+    }
+  ],
+  "learned_topics": {
+    "nandigram bus stand": "The bus stand is located in the central market area of Nandigram. It serves both local and inter-city buses connecting residents to nearby towns. Daily services run to Kolkata and other district towns.",
+    "nandigram rail station": "The rail station of Nandigram is situated on the Eastern Railway line. It handles both passenger trains and freight trains. The railway station provides long-distance connectivity to major cities.",
+    "nandigram": "Nandigram is a census town in Purba Medinipur district of West Bengal, India. It is primarily known for the 2007 violent protests against land acquisition for a chemical hub, which triggered significant political change in the state. It remains a politically sensitive region with ongoing clashes between political parties.",
+    "kolkata ": "Kolkata, formerly known as Calcutta, is the capital of the Indian state of West Bengal. It is the third-largest metropolitan area in India and is known for its rich cultural heritage, colonial architecture, and vibrant arts scene. Kolkata is also a major commercial and educational hub in eastern India.",
+    "railways": "Railways are a fundamental pillar of global logistics and passenger mobility, defined by their high energy efficiency and ability to transport bulk loads over long distances on fixed tracks",
+    "hallo": "\"Hallo\" is a versatile greeting used globally, most prominently in German-speaking countries and as a friendly variation of \"Hello\" in English.",
+    "canada": "Canada is the world's second-largest country by total area. It is a federal parliamentary constitutional monarchy with a highly developed, high-tech industrial economy."
+  },
+  "total_entries": 37
+}

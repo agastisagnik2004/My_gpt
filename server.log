@@ -1,0 +1,17 @@
+INFO:__main__:FAISS index initialized with dimension 64
+INFO:__main__:Loaded 34 persisted user queries and 8 learned topics
+INFO:__main__:FAISS index initialized with dimension 64
+INFO:__main__:Rebuilt 8 learned topics in FAISS index
+INFO:__main__:Data validated and synced. FAISS index has 8 entries
+INFO:__main__:Added 26 documents to FAISS index. Total: 34
+INFO:     Started server process [9876]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:60922 (Press CTRL+C to quit)
+INFO:__main__:Query already exists in DB: What is machine learning?...
+INFO:__main__:Pipeline completed in 50.32ms
+INFO:     127.0.0.1:39888 - "POST /query HTTP/1.1" 200 OK
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [9876]
