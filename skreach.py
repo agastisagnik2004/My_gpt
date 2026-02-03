@@ -1321,9 +1321,9 @@ async def clear_cache():
 if __name__ == "__main__":
     import uvicorn
     print("="*60)
-    print("🚀 Starting AI Pipeline Server")
+    print("Starting AI Pipeline Server")
     print("="*60)
-    print(f"📍 URL: http://127.0.0.1:60922")
-    print(f"🏥 Health Check: http://127.0.0.1:60922/health")
+    print(f"URL: http://127.0.0.1:60922")
+    print(f"Health Check: http://127.0.0.1:60922/health")
     print("="*60)
     uvicorn.run(app, host="127.0.0.1", port=60922, log_level="info")
