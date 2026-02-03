@@ -2,3 +2,7 @@ python3 skreach.py 2>&1 --- for compilation
 uvicorn main:app --host 127.0.0.1 --port 60922--reload --- for running
 docker build -t rag-pipeline .
 docker run -p 60922:60922 rag-pipeline
+docker tag rag-pipeline sagnik020/picture_gpt
+docker push sagnik020/picture_gpt
+docker pull sagnik020/picture_gpt
+docker run -p 60922:60922 sagnik020/picture_gpt
